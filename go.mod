@@ -1,6 +1,6 @@
 module github.com/quay/quay-operator
 
-go 1.1
+go 1.15
 
 require (
 	github.com/go-logr/logr v0.1.0
